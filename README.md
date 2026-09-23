@@ -19,37 +19,37 @@ p.s. We're creating a [related emulator](https://github.com/TotalPythoneering/Tu
 
 # Course Title
 
-Python 5000: Graphical Models & Simulations
+## Python 4000: Events, Frameworks & Shapes
 
 # Sub-Title
 
-Advanced Modeling & Framework Techniques
+### Warps, Speeds & Custom Coordinates
 
 ## Key Topics
 
-Graphical simulation and animation using core Python: Enhancing
-frameworks. Extended shape transformation, registry, and management.
+Shapes, States, Customs Coordinates, Bitmaps, 3D Printing
 
 ## What You Will Learn
 
-- Create a basic calculator
+- Respond to mouse events & keyboard operations
 
-- Determine relative point-distances
+- Create Lambdas to respond to framework events
 
-- Determine object heading & orientation
+- Register user-defined shapes
 
-- Create & manage the "Undo Buffer"
+- Record & transform basic, as well as complex, shapes
 
-- Use screen-relative viewports
+- Learn how to create a "Z Order" to manage user events
 
-- Scale the global, world-coordinate, aspect ratios
+- Understand the difference between shapes, the shape registry, and
+  active-object instances
 
-- Understand how to manage shape transformations
+- Simulate basic object movement & instance inter-operations
 
 ## Audience
 
-Students who have completed the 3000 and 4000 lesson sets for Turtle
-Graphics.
+Accomplished coders familiar with creating classes & functions in Python
+3.
 
 ## Author
 
@@ -57,190 +57,173 @@ Graphics.
 
 ## Summary
 
-Picking up where Python 4000 closed these extend lessons build quite
-nicely upon managing, morphing, and supporting events to manage complex
-polygons and other shapes. From creating external and internal shape
-definitions to the events and models to manage any - when time it comes
-to provision a little more professionality into our Pythoneering Python
-5000: Graphical Models & Simulations offers multiple insights into
-making visualized motions, matter.
+If you're not familiar with how to create, test, and use graphical
+frameworks, or have never used a callback function, then I think you
+will find our intermediate training - or Python 4000 for Turtle
+Graphics - to be something that you don't want to miss. Certainly a
+lesson set that you'll want to re-use, as well as practice!
 
 ## Description
 
-In Python 5000: Cartesian Frameworks our mission is to understand the
-event-driven operations & design concepts professional software
-developers use to better manage, as well as to maintain, complex
-graphical systems. We will reuse what we learned in Python 3000:
-Turtles, Robots and Vectors and Python 4000: Graphical Events and
-Operations to create and to animate different graphical objects.
+The Python 4000: Graphical Events and Operations lesson set ushers past
+the basic understandings of plotting & motion-based shapes covered in
+the 3000 level to allow us to create graphical frameworks -Design
+patterns that will allow us to call our functions within Python's
+classical Cartesian graphics plane.
 
-Robust Graphical Applications
+In Python 4000 we’ll be diving deeper into the Turtle Graphics framework
+by exploring Pens, Bitmaps, Styles, as well as saving and recalling
+drawing states. From distance calculations, headings, and how to
+register and manage Shapes. determination, and calculate precise
+arrivals times.
 
-Delving deeper into Python's default graphics support in Python 5000:
-Cartesian Frameworks we will be discovering even more advanced graphical
-techniques; X, Y as well as Z-axis concepts that are amply supported
-within Python's Turtle Graphics subsystem. You will have many
-opportunities to practice responding to real-world, interactive
-user-input, event processing, and graphical outputs. Features and
-functions destined to help us to create reusable, interactive
-event-driven applications.
+Along the way we’ll be diving deeper in-depth to capturing callbacks,
+events, and designing graphical frameworks. We will also discover how to
+graphically gather input from application users, as well.
 
-Animations, Modeling & Simulations
-
-You will learn how to transform and manipulate graphical objects. From
-external bitmaps to vector graphics Python's surprising resizable &
-adaptable graphical cursor will allow us to define, scale, and to even
-drag-and-drop items around our screens.
-
-You will also practice how to record - as well as to replay - complex
-vector operations. You will enjoy using "image stamping" by using
-Python's built-in Shape Registry. You will also practice registering our
-own shapes for re-use, animation, combined / merged rendering, as well
-as future modification. You will also enjoy learning how to manage all
-of the built-in shapes that come with Python.
-
-Real-World Programming
-
-We will show you how to collect and respond to both keyboard, as well as
-mouse events.
-
-Part of an animation application, you will also practice how to create
-and manage timer-based simulations.
+From working with angles, radians, degrees and shape transformations, to
+creating custom coordinate systems - from Pythoneer to Pythonista there
+is sure to be something new to enjoy in this intermediate – level
+graphical quest.
 
 ## Lessons
 
-100: Welcome to Advanced Modeling & Frameworks
+100: Welcome to Level 4000!
 
-''Graphical Modeling & Simulation'' is the advanced & very natural
-successor to our evolutionary coverage of Python's build-in support for
-“The Turtle Robot.”
+Frameworks, events, and callbacks remain the graphical mission for these
+'Turtle Bot' sessions.
 
-200: Default Shapes & Management
+200: Gathering User Input
 
-From the included defaults to a shape registry there are - very
-arguably - at least (5) ways to manage our shapes.
+Picking up where Turtle Graphics 3000 left off let's explore the many
+possibilities in using any TkDiaog to return some input() data.
 
-300: Stamps & Stamping Shapes
+300: Exiting Our App
 
-Robotic shape recording & playback is a classic re-use case for many
-graphical frameworks.
+Two distinct operations to know because sometimes we're ***.done***,
+whilst other times we might need to keep on data-processing.
 
-400: Your Customizable Shapes & Dictionary
+400: Packages & Aliases
 
-Python's classic enumerations and dictionary keys make custom shape
-management the instant go-to classic.
+The name of the packages we import can change, but aliasing permits
+everyone to keep our encoded 'ops the same. So let's use our 'robot' to
+delve deeper into the best 'Pen' attributes.
 
-500: Registering & Re-Playing Shape Files
+500: Filling Shapes
 
-From avoiding hard-coded slow-downs to permitting dynamic shape updates
-saving shapes in external data files is a powerful re-use paradigm to be
-aware of.
+From string to numerical operations restoring 'object states' becomes
+even more important whenever our operations, models, and / or animations
+become complex.
 
-600: Re-Using Our Framework
+600: Interactive 'Ops
 
-From instance counting to superclass callings let's understand some
-interesting opportunities for managing, maintaining & re-using our own
-frameworks.
+From testing to stressing, our programming challenges becomes a lot more
+problematic whenever users weigh-in to start programming our data
+operations.
 
-700: Shape Twisting, Warping & Skew
+700: Shape & Frameworks
 
-Tweaking our shapes angles & rotations can simulate applied
-gravitational - as well as common perspective - visualizations.
+From rectangles to complex shapes Turtle Graphics offers many unexpected
+opportunities for creating and re-using our own shapes.
 
-800: Shape Mergings & Multiplications
+800: Updating State Savers
 
-From assumed closures to combined shape management whenever we need to
-manage several the Shape() class is another opportunity to understand.
+I find that selectively managing the attributes that we save and restore
+effectively create 'styles;' classes to help us create some
+massive-macro push / pop abilities.
 
-900: Automatic Closures
+900: Models, Patterns & Parameters
 
-Worth a deeper dive, grokking automatic Shape-closure can become both
-what we rely upon, as well as what we'll need to appreciate whenever our
-Shape()s begin to look strange.
+Every 'state' that we wish to save / restore is invariably the best
+candidate for default parameters... and those parameters often become
+the 'Models' we use in any 'Model, View, Controller' 'Factory' Design
+Pattern.
 
-1000: Zooming, Mixing & Merging
+1000: 3D Printing
 
-The requirement to add shapes together might seem uncommon, but the
-needs to zoom-and an -out are a very expected graphical use cases.
+What we design in the 2D robot world can often be printed and shared
+with others. No longer 'KidSwidden' we're presently publishing as 'Total
+Pythoneering' on Thingiverse.
 
-1100: Tilting Transformations
+1100: Frameworked Solutions
 
-Sophisticated and unary shape management includes applying both positive
-and negative angles of rotation. Yet here again our visualization 'ops
-can be both additive - as well as exclusive.
+Re-use is much of the joy in using any Framework. By focusing upon only
+what has changed not only are our 'ops easier to understand, but our
+testing requirements are often much reduced as well.
 
-1200: Creating Pre-Programmed Operations
+1200: Real-World Token & Coins
 
-Supplying our own custom (and customizable) views & operations is often
-the mark of any truly professional framework. Let's explore how to apply
-any array of operations to your shapes.
+There is something genuinely special about holding in our hands some
+things that originally came from our imagination.
 
-1300: Complex Shape Shears & Transformation
+1300: Bitmaps, Viewports & Backgrounds
 
-From gravity to pressure, applying sheering factors is also often the
-hallmark of any sophisticated shape frameworks & simulators.
+How to re-use and manage the images that we've created here as well as
+elsewhere.
 
-1400: Comparative Shape Views
+1400: More Metrics & Measures
 
-From combining cross-hairs to roundels much research and reporting
-requirement usually depends upon comparing one shape to another one in a
-series... but what is the fastest way to do that?
+Like our previous ''fastgrid'' demonstrations, re-use as well as speed
+are the primary reasons why circles are polygons in many graphical user
+experiences.
 
-1500: Graphical Events
+1500: Polygons as Circles
 
-The event framework in Python is robust as well as the most important
-requirement for responding to both user - as well as shape - management
-'ops.
+From fractals to flowers circle-based polygons often inspire many
+natural designs.
 
-1600: Keyboard Events
+1600: Where Robots are Going
 
-When creating our own framework, encapsulating events is a practice that
-I'll often recommend as being 'best.'
+It is often incredibly handy to keep track of waypoints & other headings
+whenever we're creating demonstrations - as well as robotic 'ops - in
+both the real, as well as any imaginary worlds.
 
-1700: Mouse Events
+1700: Testing Mains
 
-The onclick() even is also part of the default, global instance: We've
-usually only one. What is handy however is how we can share and chain
-button-callbacks together.
+Using \_\_main\_\_ is often the best way to create a test driver: One to
+run when the module is what we're working with, otherwise to be ignored
+when the module is only being imported or re-used.
 
-1800: Turtle Instances
+1800: Distance Determination & Arrivals
 
-Obviously interesting, having multiple robots presents us with multiple
-& many amazingly advanced opportunities for intercepting, re-using and
-responding to user operations.
+Setting, maintaining and managing homes, starting points and
+destinations offer everyone even more real-world reporting and / or
+robotic operational insights.
 
-1900: Z Ordering
+1900: Shape Closuer
 
-Stacking, zooming & transforming our shapes help us to construct
-insightful - and often anticipated three-dimensional graphical
-operations to our frameworks & simulations.
+Unlike what many might expect, in Python's Turtle Graphics Shape are
+closed. Shapes endpoints are therefore assumed, as well as implied.
 
-2000: Timed Events
+2000: Degrees & Radians
 
-Moving through time is important - yet supporting the time-traveling
-requirement is often also a way great to move our models back and forth
-thru real, as well as thru simulated, times.
+Everyone knows that the number of 'steps' in any circle is 360 ... but
+what if we're interested in percentages, or other increments?
 
-2100: Encapsulated Time Travels
+2100: Working the Agile
 
-From managing timed to user events, nothing says “perfection” as much as
-choosing to create our own set of re-usable components to use any within
-our frameworks.
+Far from being any sustainable project management approach, completing
+things one step at a time is a great way to research what we need
+develop before creating any final solution.
 
-2200: Modeling & Simulation
+2200: Custom Coordinate Systems
 
-Trying things out before we create them in the real-world often defines
-most justifications for trying things out in simulation before we
-attempt to fit them together in our real-world situations.
+When panning back and forth or zooming in and out managing ''World
+Coordinates'' allows us to totally master how we might see what we need
+to see.
 
-2300: Spiked Gears En Motions
+2300: Frameworks & Enumerations
 
-Synchronization as well as distance simulations defined the final
-distance requirement thru calculations.
+Witness how any set of preset-values help manage our Framework's
+solution to the previous drawing activity.
 
-2400: Final Activity: An Odd Simulation
+2400: Undoing 'ops & Hiding Robots
 
-The real advantage of creating classes, models, and frameworks is that
-some models - like our gears - might not seem to make real-world sense
-until we simulate the system, first.
+Modern graphics - let alone classic animations - relies heavily upon
+undoing & managing our set(s) of previously drawn operations.
 
+2500: Iteration Management
+
+Managing undo / redo buffers can be expensive, as well as unexpectedly
+as lossy so let's take a moment to remove the surprises by experimenting
+with what we've just created.
